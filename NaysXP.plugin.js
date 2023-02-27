@@ -6,8 +6,8 @@
  * @description İstediğiniz kanala istediğiniz sürede bir mesaj göndermenizi sağlar.
  * @invite Jx3TjNS
  * @website https://naystie.com/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ImageUtilities/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/ImageUtilities/ImageUtilities.plugin.js
+ * @source https://github.com/Naystie/BD-NaysXP
+ * @updateUrl https://raw.githubusercontent.com/Naystie/BD-NaysXP/main/NaysXP.plugin.js
  */
 
 const settings = {
