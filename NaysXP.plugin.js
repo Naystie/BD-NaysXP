@@ -4,7 +4,7 @@
  * @authorId 344871509677965313
  * @version 0.1
  * @description İstediğiniz kanala istediğiniz sürede bir mesaj göndermenizi sağlar.
- * @invite Jx3TjNS
+ * @invite QFaxUAhyAP
  * @website https://naystie.com/
  * @source https://github.com/Naystie/BD-NaysXP
  * @updateUrl https://raw.githubusercontent.com/Naystie/BD-NaysXP/main/NaysXP.plugin.js
