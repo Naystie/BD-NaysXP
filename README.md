@@ -1,2 +1,2 @@
 # BD-NaysXP
-XP farö for Discord xp bots.
+XP farm for Discord xp bots.
